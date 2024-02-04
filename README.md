@@ -8,4 +8,3 @@ docker create network dockernet
 ```
 
 3. up docker compose postgres
-4. lihat host
